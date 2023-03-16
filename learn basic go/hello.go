@@ -5,4 +5,3 @@ import "fmt"// import fmt(format)
 func main() {// every thing start at here "main" function
 	fmt.Println("Hello Gopher!!!")
 }
-
