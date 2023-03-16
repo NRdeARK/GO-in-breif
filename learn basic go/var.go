@@ -21,3 +21,5 @@ func main() {
 	msg6,msg7 := 22 , 44// multiple declairation
 	fmt.Println(msg6 + msg7)
 }
+//other type is byte(uint8) ,int18, rune(int32), float, bool, complex etc.
+//can assign raw string using  => ` ` 
