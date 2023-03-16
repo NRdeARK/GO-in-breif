@@ -21,13 +21,13 @@ func main() {
 	fmt.Printf("%s%d\n",key,valueD)
 	
 	key,valueF := "เรตติ้ง:", 8.4
-	fmt.Printf("%s%f\n",key,valueF)
+	fmt.Printf("%s%.1f\n",key,valueF)
 	
 	key,value = "ประเภท:", " Sci-Fi"
 	fmt.Printf("%s%s\n",key,value)
 	
 	key,valueB := "ซุปเปอร์ฮีโร่:", true
-	fmt.Printf("%s%v\n",key,valueB)
+	fmt.Printf("%s%t\n",key,valueB)
 	
 	key,valueC := "เรื่องโปรด:", " ⭐"
 	fmt.Printf("%s%s\n",key,valueC)
