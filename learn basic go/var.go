@@ -18,6 +18,6 @@ func main() {
 	fmt.Println(msg2)
 	msg5 := 55// can assign int
 	fmt.Println("msg5 is contains :",msg5)// multiple print
-	msg6,msg7 := 22 , 44//multiple declairation
+	msg6,msg7 := 22 , 44// multiple declairation
 	fmt.Println(msg6 + msg7)
 }
