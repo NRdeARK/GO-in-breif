@@ -8,5 +8,5 @@ func main() {
 	//rating : 8.8
 	//type : action
 
-	//todo : write code below
+	//todo : write code below using printf
 }
